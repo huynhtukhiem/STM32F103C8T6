@@ -15,6 +15,7 @@
 3. Trong cửa sổ **New Project Wizard**:
    - Đặt tên cho dự án và chọn đường dẫn lưu tùy ý.
    - Nhấn **Next** qua các bước và nhấn **Finish** để hoàn tất.
+   Lưu ý: Trong khi tạo, nếu thêm một folder mới để lưu project thì phải đảm bảo trong folder đó có một folder tên Project     Backup, đây là tính năng của Proteus.
   <img width="775" height="349" alt="image" src="https://github.com/user-attachments/assets/dedb75f6-633e-4b83-9f74-02e4efb35ebc" />
   <img width="775" height="348" alt="image" src="https://github.com/user-attachments/assets/4803fb43-0a94-495a-a8b4-bc2dc2fc7bbd" />
 
